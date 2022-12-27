@@ -34,7 +34,7 @@ Features that will ship with this config:
 
 1. Clone this repo and place it in your  `$HOME/.config/` directory  
 2. Open neovim and process will begin automatically
-3. Re-launch Neovim and just to make sure everything is installed, run `:packerSync`
+3. Re-launch Neovim and just to make sure everything is installed, run `:PackerSync`
 
 🎯 Done!
 
