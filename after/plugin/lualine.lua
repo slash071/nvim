@@ -11,7 +11,7 @@ lualine.setup {
 --  section_separators = { left = '', right = ''},
     component_separators = {},
     section_separators = {},
-    disabled_filetypes = {
+    disabled_filetypes = { "packer", "NvimTree",
       statusline = {},
       winbar = {},
     },
