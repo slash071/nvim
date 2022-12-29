@@ -29,7 +29,6 @@ local options = {
     number = true,
     relativenumber = false,
     numberwidth = 4,
-    signcolumn = "no",
     wrap = false,
     linebreak = true,
     scrolloff = 13,
