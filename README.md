@@ -8,7 +8,7 @@ Features that will ship with this config:
 + *Tree-sitter* for better readability
 + File explorer and dashboard
 + Auto completion and snippets
-+ Terminal for testing code
++ Embedded terminal for testing code
 + Auto-pair & rainbow parenthesis
 + Indent guide for blocks
 + Color highlighter
