@@ -6,6 +6,7 @@ Features that will ship with this config:
 + *tokyonight*, *onedark* & *catppuccin* color schemes
 + Fuzzy finder to search for word and files
 + *Tree-sitter* for better readability
++ *gitsigns* for Git integration for buffers
 + File explorer and dashboard
 + Auto completion and snippets
 + Embedded terminal for testing code
