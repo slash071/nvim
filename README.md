@@ -5,7 +5,7 @@ An IDE layer for Neovim that aims to be fast and lightweight.
 Features that will ship with this config:
 + *tokyonight*, *onedark* & *catppuccin* color schemes
 + Fuzzy finder to search for word and files
-+ *Tree-sitter* for better readable
++ *Tree-sitter* for better readability
 + File explorer and dashboard
 + Auto completion and snippets
 + Terminal for testing code
