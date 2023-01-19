@@ -52,6 +52,7 @@ return packer.startup(function(use)
     use "folke/twilight.nvim"
     use "goolord/alpha-nvim"
     use "RRethy/vim-illuminate"
+    use "xiyaowong/nvim-transparent"
 --
 --	-- Colorschemes
     use "folke/tokyonight.nvim"
