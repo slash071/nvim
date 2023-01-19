@@ -13,6 +13,7 @@ Features that will ship with this config:
 + Auto-pair & rainbow parenthesis
 + Indent guide for blocks
 + Color highlighter
++ Transparent background
 + Commenting tool to speed-up development
 + Zenmode with Twilight for focusing
 + *illuminate* for highlighting same words under the cursor.
