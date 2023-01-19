@@ -69,3 +69,6 @@ keymap("n", "<F9>", ":Twilight<CR>", opts)
 -- Telescope --
 keymap("n","<M-l>", ":Telescope live_grep<CR>", opts)
 keymap("n","<M-f>", ":Telescope find_files<CR>", opts)
+
+-- transparency --
+keymap("n","<F6>", ":TransparentToggle<CR>", opts)
