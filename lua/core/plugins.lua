@@ -80,6 +80,12 @@ return packer.startup(function(use)
     }
     use "p00f/nvim-ts-rainbow"
 --
+-- -- Markdown preview
+    use({
+        "iamcco/markdown-preview.nvim",
+        run = function() vim.fn["mkdp#util#install"]() end,
+    })
+--
 -- -- Git
 	use "lewis6991/gitsigns.nvim"
 
