@@ -3,7 +3,7 @@
 An IDE layer for Neovim that aims to be fast and lightweight.
 
 Features that will ship with this config:
-+ *tokyonight*, *onedark* & *catppuccin* color schemes
++ *tokyonight*, *onedark*, *kanagawa* & *catppuccin* color schemes
 + Fuzzy finder to search for word and files
 + *Tree-sitter* for better readability
 + *gitsigns* for Git integration for buffers
