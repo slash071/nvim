@@ -16,7 +16,8 @@ Features that will ship with this config:
 + Transparent background
 + Commenting tool to speed-up development
 + Zenmode with Twilight for focusing
-+ *illuminate* for highlighting same words under the cursor.
++ *illuminate* for highlighting same words under the cursor
++ Markdown preview with live update.
 
 <h2 align="center">Showcase</h2>
 <div align="center">
