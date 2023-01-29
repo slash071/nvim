@@ -58,6 +58,7 @@ return packer.startup(function(use)
     use "folke/tokyonight.nvim"
     use { "catppuccin/nvim", as = "catppuccin" }
     use "navarasu/onedark.nvim"
+	use "rebelot/kanagawa.nvim"
 --
 --	-- Cmp 
     use "hrsh7th/nvim-cmp"
